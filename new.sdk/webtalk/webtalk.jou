@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# 
+# Start of session at: Wed May  9 01:06:21 2018
+# Process ID: 6344
+# Current directory: C:/Users/Sean/Documents/UGV_PROJECTS/new/new.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/Sean/Documents/UGV_PROJECTS/new/new.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/Sean/Documents/UGV_PROJECTS/new/new.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
